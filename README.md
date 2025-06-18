@@ -21,9 +21,4 @@ Una publicación es **viral** si tiene:
 - Scikit-learn (KMeans, Decision Tree)
 - Google Colab
 
-## Resultados
-
-- Reels con hashtags cortos publicados viernes a domingo tienden a ser virales.
-- El árbol de decisión permite predecir viralidad con base en variables clave.
-- Clustering reveló distintos tipos de engagement.
 
